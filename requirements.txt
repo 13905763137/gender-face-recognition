@@ -1,6 +1,6 @@
 voila
-fastai2==0.0.16
-fastcore==0.1.16
+-e git+https://github.com/fastai/fastai2
+-e git+https://github.com/fastai/fastcore
 pillow<7
 packaging
 ipywidgets==7.5.1
